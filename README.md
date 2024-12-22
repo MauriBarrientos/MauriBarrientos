@@ -1,6 +1,20 @@
-- 👋 Hi, I’m @MauriBarrientos Dev Student
+# 👋 Hi there! I'm Mauricio Barrientos
 
-<!---
-MauriBarrientos/MauriBarrientos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! 🚀  
+I’m a **Fullstack Software Developer** passionate about building efficient, user-friendly applications and continuously improving my skills!
+
+## 🛠️ Technologies, Knowledges & Tools:
+- **Frontend:** React, React Native, HTML5, CSS3, JavaScript, TypeScript 
+- **Backend:** Node.js, Express, FastAPI, PHP, Python 
+- **Databases:** MySQL, PostgreSQL, MongoDB  
+- **Other Tools:** Git/GitHub, Docker, Expo, Sequelize, Keras, Matplotlib, Pandas, Numpy  
+
+## 🌱 Currently Learning:
+- Advanced Machine Learning concepts  
+- Optimizing backend performance for large-scale systems  
+- Exploring AI integrations in modern applications
+- Modern designs of websites and mobile platforms.
+
+## Let's connect:
+- LinkedIn: www.linkedin.com/in/mauricio-jmbarrientos
+- Email: mauribarrientos23@gmail.com
