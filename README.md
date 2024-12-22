@@ -9,8 +9,7 @@ I’m a **Fullstack Software Developer** passionate about building efficient, us
 - **Databases:** MySQL, PostgreSQL, MongoDB  
 - **Other Tools:** Git/GitHub, Docker, Expo, Sequelize, Keras, Matplotlib, Pandas, Numpy  
 
-## 🌱 Currently Learning:
-- Advanced Machine Learning concepts  
+## 🌱 Currently Learning: 
 - Optimizing backend performance for large-scale systems  
 - Exploring AI integrations in modern applications
 - Modern designs of websites and mobile platforms.
